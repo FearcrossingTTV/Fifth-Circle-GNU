@@ -41,6 +41,7 @@ lftp
 libfido2
 libusb-compat
 #linux
+linux-zen
 linux-atm
 linux-firmware
 linux-firmware-marvell
@@ -221,7 +222,7 @@ wine-staging
 sddm
 
 ## AUR support
-octopi
+pamac
 rate-mirrors
 autoconf
 automake
@@ -247,6 +248,7 @@ base-devel
 
 ##### want to have linux-headers
 
+linux-zen-headers
 linux-headers
 
 ##### Chaotic repo
@@ -276,20 +278,15 @@ ntfs-3g
 reiserfsprogs
 sshfs
 xfsprogs
-
-
-linux-zen
-linux-zen-headers
-
-#cinnamon
-#budgie
-#nemo-fileroller
-#cinnamon-translations
-#gnome-terminal
-plasma-desktop
-plasma-wayland-session
-maui
 git
 
-#grub theme
-catppuccin-macchiato-grub-theme-git
+# Pantheon Setup ??
+pantheon
+pantheon-session
+pantheon-default-settings
+pantheon-mail
+pantheon-settings-daemon
+pantheon-print
+pantheon-polkit-agent
+pantheon-geoclue2-agent
+pantheon-applications-menu
